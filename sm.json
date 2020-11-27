@@ -1,0 +1,8 @@
+{
+  "libraries": [
+    "@/slices",
+    "essential-slices"
+  ],
+  "apiEndpoint": "https://dd-slicemachine.cdn.prismic.io/api/v2",
+  "storybook": "http://localhost:8888"
+}
